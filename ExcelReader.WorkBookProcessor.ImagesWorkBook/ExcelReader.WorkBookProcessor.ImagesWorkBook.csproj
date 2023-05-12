@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExcelReader.WorkbookProcessor.Base\ExcelReader.WorkbookProcessor.Base.csproj" />
+    <ProjectReference Include="..\ImagesURLValidator.Model\ImagesURLValidator.Model.csproj" />
+  </ItemGroup>
+
+</Project>

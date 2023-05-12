@@ -1,0 +1,17 @@
+{
+  "name": "ImageURLs",
+  "workSheets": [
+    {
+      "name": "Sheet1",
+      "headerColumns": [
+        "URI_Part_Number",
+        "URL_Text",
+        "URL Correct"
+      ],
+      "wkRange": {
+        "start": "URI_Part_Number",
+        "end":  "URL_Text"
+      }
+    }
+  ]
+}
